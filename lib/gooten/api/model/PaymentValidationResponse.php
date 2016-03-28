@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PaymentValidationResponse
  *
@@ -174,5 +172,3 @@ class PaymentValidationResponse implements ArrayAccess
         }
     }
 }
-
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Product
  *
@@ -590,5 +588,3 @@ class Product implements ArrayAccess
         }
     }
 }
-
-

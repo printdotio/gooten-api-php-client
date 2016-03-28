@@ -76,4 +76,3 @@ class ProducttemplatesApiTest extends \PHPUnit_Framework_TestCase
     }
     
 }
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductPriceInfoTest
  *
@@ -70,5 +68,3 @@ class ProductPriceInfoTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

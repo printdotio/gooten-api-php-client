@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * OrderItem
  *
@@ -270,5 +268,3 @@ class OrderItem implements ArrayAccess
         }
     }
 }
-
-

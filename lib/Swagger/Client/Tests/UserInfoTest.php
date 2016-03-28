@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * UserInfoTest
  *
@@ -70,5 +68,3 @@ class UserInfoTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

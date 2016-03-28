@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ImageValidatorResult
  *
@@ -206,5 +204,3 @@ class ImageValidatorResult implements ArrayAccess
         }
     }
 }
-
-

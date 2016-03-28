@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductBuildOption
  *
@@ -334,5 +332,3 @@ class ProductBuildOption implements ArrayAccess
         }
     }
 }
-
-

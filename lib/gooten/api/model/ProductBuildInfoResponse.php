@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductBuildInfoResponse
  *
@@ -174,5 +172,3 @@ class ProductBuildInfoResponse implements ArrayAccess
         }
     }
 }
-
-

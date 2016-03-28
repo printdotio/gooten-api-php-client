@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Item
  *
@@ -270,5 +268,3 @@ class Item implements ArrayAccess
         }
     }
 }
-
-

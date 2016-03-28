@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PostOrder
  *
@@ -398,5 +396,3 @@ class PostOrder implements ArrayAccess
         }
     }
 }
-
-

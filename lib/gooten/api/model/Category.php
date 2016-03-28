@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Category
  *
@@ -206,5 +204,3 @@ class Category implements ArrayAccess
         }
     }
 }
-
-

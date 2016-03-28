@@ -76,4 +76,3 @@ class CountriesApiTest extends \PHPUnit_Framework_TestCase
     }
     
 }
-

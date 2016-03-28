@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ValidationFailure
  *
@@ -238,5 +236,3 @@ class ValidationFailure implements ArrayAccess
         }
     }
 }
-
-

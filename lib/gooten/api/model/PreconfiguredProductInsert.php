@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PreconfiguredProductInsert
  *
@@ -334,5 +332,3 @@ class PreconfiguredProductInsert implements ArrayAccess
         }
     }
 }
-
-

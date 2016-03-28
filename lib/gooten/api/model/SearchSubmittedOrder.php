@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * SearchSubmittedOrder
  *
@@ -430,5 +428,3 @@ class SearchSubmittedOrder implements ArrayAccess
         }
     }
 }
-
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ShippingPricesResultTest
  *
@@ -70,5 +68,3 @@ class ShippingPricesResultTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

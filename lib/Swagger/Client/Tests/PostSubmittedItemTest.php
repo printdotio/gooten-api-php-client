@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PostSubmittedItemTest
  *
@@ -70,5 +68,3 @@ class PostSubmittedItemTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Image
  *
@@ -302,5 +300,3 @@ class Image implements ArrayAccess
         }
     }
 }
-
-

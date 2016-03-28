@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ShipEstimate
  *
@@ -302,5 +300,3 @@ class ShipEstimate implements ArrayAccess
         }
     }
 }
-
-

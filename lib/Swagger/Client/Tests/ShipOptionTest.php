@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ShipOptionTest
  *
@@ -70,5 +68,3 @@ class ShipOptionTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PreconfiguredItem
  *
@@ -238,5 +236,3 @@ class PreconfiguredItem implements ArrayAccess
         }
     }
 }
-
-

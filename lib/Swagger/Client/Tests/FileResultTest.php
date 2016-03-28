@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * FileResultTest
  *
@@ -70,5 +68,3 @@ class FileResultTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

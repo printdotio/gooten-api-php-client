@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ShipItem
  *
@@ -206,5 +204,3 @@ class ShipItem implements ArrayAccess
         }
     }
 }
-
-

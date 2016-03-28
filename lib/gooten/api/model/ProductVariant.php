@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductVariant
  *
@@ -334,5 +332,3 @@ class ProductVariant implements ArrayAccess
         }
     }
 }
-
-

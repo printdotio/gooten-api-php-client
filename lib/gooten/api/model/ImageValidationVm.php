@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ImageValidationVm
  *
@@ -206,5 +204,3 @@ class ImageValidationVm implements ArrayAccess
         }
     }
 }
-
-

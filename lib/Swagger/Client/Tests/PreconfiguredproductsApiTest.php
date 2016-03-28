@@ -106,4 +106,3 @@ class PreconfiguredproductsApiTest extends \PHPUnit_Framework_TestCase
     }
     
 }
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * OrderPriceResultTest
  *
@@ -70,5 +68,3 @@ class OrderPriceResultTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

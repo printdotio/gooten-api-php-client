@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PostSubmittedOrder
  *
@@ -494,5 +492,3 @@ class PostSubmittedOrder implements ArrayAccess
         }
     }
 }
-
-

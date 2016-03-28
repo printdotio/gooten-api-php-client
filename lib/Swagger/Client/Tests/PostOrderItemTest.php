@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PostOrderItemTest
  *
@@ -70,5 +68,3 @@ class PostOrderItemTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

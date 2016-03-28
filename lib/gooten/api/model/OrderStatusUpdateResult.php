@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * OrderStatusUpdateResult
  *
@@ -174,5 +172,3 @@ class OrderStatusUpdateResult implements ArrayAccess
         }
     }
 }
-
-

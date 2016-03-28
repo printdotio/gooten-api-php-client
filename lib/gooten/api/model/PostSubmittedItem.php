@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PostSubmittedItem
  *
@@ -558,5 +556,3 @@ class PostSubmittedItem implements ArrayAccess
         }
     }
 }
-
-

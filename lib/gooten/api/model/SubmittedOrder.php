@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * SubmittedOrder
  *
@@ -206,5 +204,3 @@ class SubmittedOrder implements ArrayAccess
         }
     }
 }
-
-

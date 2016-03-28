@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * FileResult
  *
@@ -174,5 +172,3 @@ class FileResult implements ArrayAccess
         }
     }
 }
-
-

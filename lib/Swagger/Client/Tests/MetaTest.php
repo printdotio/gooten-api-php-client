@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * MetaTest
  *
@@ -70,5 +68,3 @@ class MetaTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

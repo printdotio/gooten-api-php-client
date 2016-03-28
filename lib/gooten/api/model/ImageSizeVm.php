@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ImageSizeVm
  *
@@ -238,5 +236,3 @@ class ImageSizeVm implements ArrayAccess
         }
     }
 }
-
-

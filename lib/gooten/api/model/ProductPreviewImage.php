@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductPreviewImage
  *
@@ -206,5 +204,3 @@ class ProductPreviewImage implements ArrayAccess
         }
     }
 }
-
-

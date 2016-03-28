@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ImageValidationVmTest
  *
@@ -70,5 +68,3 @@ class ImageValidationVmTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

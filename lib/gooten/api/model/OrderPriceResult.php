@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * OrderPriceResult
  *
@@ -462,5 +460,3 @@ class OrderPriceResult implements ArrayAccess
         }
     }
 }
-
-

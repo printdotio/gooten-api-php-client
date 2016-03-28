@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PaymentValidationRequestTest
  *
@@ -70,5 +68,3 @@ class PaymentValidationRequestTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

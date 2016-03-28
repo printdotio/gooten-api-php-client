@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * LanguageDictionary
  *
@@ -206,5 +204,3 @@ class LanguageDictionary implements ArrayAccess
         }
     }
 }
-
-

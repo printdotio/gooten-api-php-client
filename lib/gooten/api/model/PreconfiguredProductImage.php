@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PreconfiguredProductImage
  *
@@ -270,5 +268,3 @@ class PreconfiguredProductImage implements ArrayAccess
         }
     }
 }
-
-

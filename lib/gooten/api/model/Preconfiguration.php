@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Preconfiguration
  *
@@ -206,5 +204,3 @@ class Preconfiguration implements ArrayAccess
         }
     }
 }
-
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ValidationFailureTest
  *
@@ -70,5 +68,3 @@ class ValidationFailureTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

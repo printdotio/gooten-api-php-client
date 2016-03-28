@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Order
  *
@@ -270,5 +268,3 @@ class Order implements ArrayAccess
         }
     }
 }
-
-

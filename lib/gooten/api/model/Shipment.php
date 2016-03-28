@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Shipment
  *
@@ -238,5 +236,3 @@ class Shipment implements ArrayAccess
         }
     }
 }
-
-

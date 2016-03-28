@@ -76,4 +76,3 @@ class ShippingpricesApiTest extends \PHPUnit_Framework_TestCase
     }
     
 }
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductBuildInfoSpace
  *
@@ -302,5 +300,3 @@ class ProductBuildInfoSpace implements ArrayAccess
         }
     }
 }
-
-

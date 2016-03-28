@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PreconfiguredProductsResponse
  *
@@ -174,5 +172,3 @@ class PreconfiguredProductsResponse implements ArrayAccess
         }
     }
 }
-
-

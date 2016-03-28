@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * CountryList
  *
@@ -174,5 +172,3 @@ class CountryList implements ArrayAccess
         }
     }
 }
-
-

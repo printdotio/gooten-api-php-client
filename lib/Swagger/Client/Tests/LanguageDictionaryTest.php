@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * LanguageDictionaryTest
  *
@@ -70,5 +68,3 @@ class LanguageDictionaryTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

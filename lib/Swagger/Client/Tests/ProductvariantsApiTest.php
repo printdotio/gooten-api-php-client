@@ -76,4 +76,3 @@ class ProductvariantsApiTest extends \PHPUnit_Framework_TestCase
     }
     
 }
-

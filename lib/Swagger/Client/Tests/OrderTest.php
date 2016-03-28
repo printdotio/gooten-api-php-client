@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * OrderTest
  *
@@ -70,5 +68,3 @@ class OrderTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ShippingPricesRequest
  *
@@ -334,5 +332,3 @@ class ShippingPricesRequest implements ArrayAccess
         }
     }
 }
-
-

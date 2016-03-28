@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Address
  *
@@ -302,5 +300,3 @@ class Address implements ArrayAccess
         }
     }
 }
-
-

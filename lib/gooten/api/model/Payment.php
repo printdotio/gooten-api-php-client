@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Payment
  *
@@ -174,5 +172,3 @@ class Payment implements ArrayAccess
         }
     }
 }
-
-

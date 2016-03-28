@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PreconfigurationTest
  *
@@ -70,5 +68,3 @@ class PreconfigurationTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

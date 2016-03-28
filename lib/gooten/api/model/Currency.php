@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Currency
  *
@@ -238,5 +236,3 @@ class Currency implements ArrayAccess
         }
     }
 }
-
-

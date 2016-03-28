@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Country
  *
@@ -334,5 +332,3 @@ class Country implements ArrayAccess
         }
     }
 }
-
-

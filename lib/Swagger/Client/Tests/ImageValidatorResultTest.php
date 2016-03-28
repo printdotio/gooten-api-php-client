@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ImageValidatorResultTest
  *
@@ -70,5 +68,3 @@ class ImageValidatorResultTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

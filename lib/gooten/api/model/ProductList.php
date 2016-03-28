@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductList
  *
@@ -174,5 +172,3 @@ class ProductList implements ArrayAccess
         }
     }
 }
-
-

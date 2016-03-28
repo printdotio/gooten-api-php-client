@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductPreviewRequest
  *
@@ -302,5 +300,3 @@ class ProductPreviewRequest implements ArrayAccess
         }
     }
 }
-
-

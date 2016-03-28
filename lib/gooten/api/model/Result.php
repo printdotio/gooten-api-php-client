@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Result
  *
@@ -270,5 +268,3 @@ class Result implements ArrayAccess
         }
     }
 }
-
-

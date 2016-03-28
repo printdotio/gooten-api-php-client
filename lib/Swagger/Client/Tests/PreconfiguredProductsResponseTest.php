@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PreconfiguredProductsResponseTest
  *
@@ -70,5 +68,3 @@ class PreconfiguredProductsResponseTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

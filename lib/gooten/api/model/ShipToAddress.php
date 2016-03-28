@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ShipToAddress
  *
@@ -494,5 +492,3 @@ class ShipToAddress implements ArrayAccess
         }
     }
 }
-
-

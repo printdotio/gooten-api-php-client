@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductImage
  *
@@ -302,5 +300,3 @@ class ProductImage implements ArrayAccess
         }
     }
 }
-
-

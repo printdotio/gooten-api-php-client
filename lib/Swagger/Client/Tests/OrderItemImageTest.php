@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * OrderItemImageTest
  *
@@ -70,5 +68,3 @@ class OrderItemImageTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

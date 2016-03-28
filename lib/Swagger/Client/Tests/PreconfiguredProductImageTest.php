@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PreconfiguredProductImageTest
  *
@@ -70,5 +68,3 @@ class PreconfiguredProductImageTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

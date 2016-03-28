@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * KeyValuePair
  *
@@ -206,5 +204,3 @@ class KeyValuePair implements ArrayAccess
         }
     }
 }
-
-

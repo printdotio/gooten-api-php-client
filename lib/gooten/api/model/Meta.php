@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Meta
  *
@@ -206,5 +204,3 @@ class Meta implements ArrayAccess
         }
     }
 }
-
-

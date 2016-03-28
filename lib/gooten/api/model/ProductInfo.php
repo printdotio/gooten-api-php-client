@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductInfo
  *
@@ -270,5 +268,3 @@ class ProductInfo implements ArrayAccess
         }
     }
 }
-
-

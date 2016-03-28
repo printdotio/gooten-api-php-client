@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductOptionList
  *
@@ -206,5 +204,3 @@ class ProductOptionList implements ArrayAccess
         }
     }
 }
-
-

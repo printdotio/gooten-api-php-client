@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * UserInfo
  *
@@ -334,5 +332,3 @@ class UserInfo implements ArrayAccess
         }
     }
 }
-
-

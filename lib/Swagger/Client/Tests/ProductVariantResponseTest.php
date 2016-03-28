@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductVariantResponseTest
  *
@@ -70,5 +68,3 @@ class ProductVariantResponseTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

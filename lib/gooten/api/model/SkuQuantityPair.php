@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * SkuQuantityPair
  *
@@ -206,5 +204,3 @@ class SkuQuantityPair implements ArrayAccess
         }
     }
 }
-
-

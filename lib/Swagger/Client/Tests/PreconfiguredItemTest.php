@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * PreconfiguredItemTest
  *
@@ -70,5 +68,3 @@ class PreconfiguredItemTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-

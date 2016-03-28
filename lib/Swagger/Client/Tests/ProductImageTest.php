@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * ProductImageTest
  *
@@ -70,5 +68,3 @@ class ProductImageTest extends \PHPUnit_Framework_TestCase
     }
 
 }
-
-
